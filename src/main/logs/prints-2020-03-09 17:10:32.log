@@ -1,0 +1,6 @@
+17:01:40.326 [main] INFO  stepDefinitions.Hooks - ========================================================
+17:01:40.335 [main] INFO  stepDefinitions.Hooks - Browser has initialised
+17:01:45.278 [main] INFO  stepDefinitions.LoginStepDefs - Navigated to url: https://edureka.co
+17:02:17.658 [main] INFO  stepDefinitions.Hooks - Quit the browser
+17:02:17.658 [main] INFO  stepDefinitions.Hooks - ========================================================
+17:10:32.139 [main] INFO  stepDefinitions.Hooks - ========================================================

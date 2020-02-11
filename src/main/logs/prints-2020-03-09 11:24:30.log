@@ -1,0 +1,6 @@
+12:20:03.164 [main] INFO  stepDefinitions.LoginStepDefs - Navigated to the url: https://gmail.com
+12:20:03.462 [main] INFO  stepDefinitions.LoginStepDefs - Entered username is : sandya.muchharla@gmail.com
+12:20:06.402 [main] INFO  stepDefinitions.LoginStepDefs - Entered password is : Rajesh1496
+12:20:06.529 [main] INFO  stepDefinitions.LoginStepDefs - Logged in title is  : Gmail
+12:20:06.617 [main] INFO  stepDefinitions.Hooks - Quit the browser
+12:20:06.617 [main] INFO  stepDefinitions.Hooks - ========================================================

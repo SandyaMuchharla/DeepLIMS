@@ -1,0 +1,6 @@
+16:15:39.537 [main] INFO  stepDefinitions.LoginStepDefs - Navigated to the url: http://newtours.demoaut.com/
+16:15:47.678 [main] INFO  stepDefinitions.LoginStepDefs - Clicked on login button
+16:15:47.696 [main] INFO  stepDefinitions.LoginStepDefs - Title of the page is: Find a Flight: Mercury Tours:
+16:15:47.776 [main] INFO  stepDefinitions.Hooks - Quit the browser
+16:15:47.776 [main] INFO  stepDefinitions.Hooks - ========================================================
+16:15:48.911 [main] INFO  stepDefinitions.Hooks - ========================================================
